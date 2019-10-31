@@ -1,21 +1,37 @@
-<p align="center"><a href="https://www.nibo.com.br"><img src="https://www.nibo.com.br/logo-nibo.png" width="150" /></a></p>
-<h1 align="center">Product Manager Challenge</h1>
+<p align="center"><img src="https://www.nibo.com.br/logo-nibo.png" width="150" /></p>
+<h1 align="center">Nibo Product Manager Challenge</h1>
 
 
 <p align="center">Quer saber o por que vale a pena trabalhar no Nibo? <a href="https://tech.nibo.com.br">tech.nibo.com.br</a></p>
 
 
+Olá!
+
+Primeiramente, parabéns por ter avançado ao Desafio para Product Managers do Nibo! 
+
 ## Quem somos
+O Nibo nasceu em 2012 com uma missão muito clara: ajudar empresas a gerir suas finanças de forma simples e responsável. Ao longo dos anos, percebemos que a única forma de alcançar esse objetivo seria com a ajuda de uma figura bastante esquecida no imaginário brasileiro - **contador**.
 
-Olá! Seja bem-vindo ao desafio para Product Manager do Nibo. Nosso objetivo é ajudar empresas e escritórios em todo o Brasil, com as melhores ferramentas. O sucesso dos nossos clientes é a melhor forma de encontrarmos nosso sucesso.
+Aqui no Nibo, não enxergamos o contador como o um "mal necessário", mas sim como **cientista da riqueza** - a pessoa com os poderes de ajudar seus clientes a prosperarem e alcançarem o sucesso. 
 
-Nibo é uma empresa jovem, inovadora e dedicada a facilitar a vida de milhares de empresas no Brasil. Nibo foi fundado em julho de 2012 por 3 empresários cariocas que sentiram a necessidade de um software simples porém robusto para simplificar a vida nos escritórios brasileiros.
+Traduzimos esse pensamento no nosso manifesto, que nunca deixamos de recitar: 
+> Todos os dias, 2000 empresas morrem no Brasil. Empresários precisam de ajuda. Bons contadores são a solução.
 
-A equipe de produto do Nibo é composta por diversos times multifuncionais. Esses times possuem autonomia para tomar decisões a fim de atingir seus objetivos. São as famosas SQUADs. Não sabe o que é squad? Assista ao vídeo [Spotify Engineering Culture](https://www.youtube.com/watch?v=hQDblYvY9RY). Os objetivos são definidos trimestralmente em um sistema chamado OKRs. Não sabe como funcionam as OKRs? Não tem problema, você poderá ler o artigo [O que é OKR?](https://felipecastro.com/pt-br/okr/o-que-e-okr/). As squads definem a forma como irão trabalhar no dia-a-dia, porém devem partir dos princípios ágeis de desenvolvimento para entregar resultados de forma eficiente. É necessário que você possua conhecimentos sobre Metodologias Ágeis. Caso não tenha, recomendamos primeiro estudar como funcionam o Scrum e o Kanban antes de continuar. Um ponto de início pode ser o artigo [Metodologia Ágil: Mais Atual que Nunca](https://www.siteware.com.br/metodologias/metodologia-agil/).
+Sendo assim, nosso papel é fornecer as ferramentas que aumentem a produtividade e efetividade do contador, de modo que ele tenha tempo para o que realmente importa: ser consultivo e entregar insights valiosos ao seu cliente.
 
-Para este desafio, será necessário que você faça um trial para conhecer as funcionalidades de uma das nossas ferramentas: a Gestão Financeira. Basta se cadastrar em [empresa.nibo.com.br](https://empresa.nibo.com.br).
+A equipe de Produto do Nibo é composta por times multifuncionais, com autonomia na tomada de decisão. São as famosas **squads**. 
+Não sabe o que é squad? Assista ao vídeo [Spotify Engineering Culture](https://www.youtube.com/watch?v=hQDblYvY9RY). 
+
+Nossos objetivos são definidos trimestralmente a partir da metodologia **OKR**.
+Não sabe como funcionam as OKRs? Não tem problema, você poderá ler o artigo [O que é OKR?](https://felipecastro.com/pt-br/okr/o-que-e-okr/). 
+
+As squads definem a forma como irão trabalhar no dia-a-dia, porém todas devem partir dos princípios ágeis de desenvolvimento para entregar resultados de forma eficiente. É necessário que você possua conhecimentos sobre **Metodologias Ágeis**. 
+Caso não tenha, recomendamos estudar como funcionam o Scrum e o Kanban antes de continuar. Um ponto de início pode ser o artigo [Metodologia Ágil: Mais Atual que Nunca](https://www.siteware.com.br/metodologias/metodologia-agil/).
+
 
 ## O desafio
+
+Para este desafio, você precisará conhecer as funcionalidades de uma dos nossos produtos: a Gestão Financeira. Você pode fazer um trial da ferramenta em [empresa.nibo.com.br](https://empresa.nibo.com.br).
 
 A partir de agora você é a(o) Product Manager da `SQUAD Conversão de Trial`. Essa Squad faz parte da `TRIBO Gestão Financeira`. Essa Tribo é responsável por entregar valor para clientes que utilizam a ferramenta [empresa.nibo.com.br](https://empresa.nibo.com.br). O objetivo do trimestre da sua Squad é:
 
@@ -31,7 +47,7 @@ Agora é o momento de defender as suas ideias e suas priorizações. É necessá
 1. Definir as Key Results do trimestre
 2. Definir roadmap do trimestre
 3. Priorizar o roadmap para as duas proximas sprints
-4. Criar uma apresentação
+4. Crie uma apresentação
 
 
 ## Envio da solução
@@ -42,4 +58,4 @@ Você deverá compilar o resultado de todas as atividades em uma apresentação 
 
 **NIBO - Desenvolvimento de alta performance para geeks inquietos**
 
-Boa sorte 😉
+Boa sorte :D
